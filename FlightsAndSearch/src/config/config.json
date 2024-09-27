@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "Anilkumar123",
-    "database": "Flights_Search_DB",
+    "database": "Flights_Search_db",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
